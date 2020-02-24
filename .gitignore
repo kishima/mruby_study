@@ -1,0 +1,5 @@
+*.out
+*.o
+testapp
+.vscode/
+*.lock
